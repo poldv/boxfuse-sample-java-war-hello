@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>Boxfuse  App: success!</title>
 </head>
 <body style="text-align: center">
 <h1>Congratulations!</h1>
@@ -8,7 +8,7 @@
 
 <h2>You have successfully launched your Instance!</h2>
 
-<p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
+<p>This Instance is not running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
 </strong>.</p>
 
@@ -25,12 +25,12 @@
     </strong>
 </p>
 
-<p style="margin-bottom: 40px;">
+<p style="margin-bottom: 50px;">
     List all running Instances:<br/>
     <strong>boxfuse ps</strong>
 </p>
 
-<P style="margin-bottom: 40px;">
+<P style="margin-bottom: 50px;">
     List all Bootable Apps:<br/>
     <strong>boxfuse ls</strong>
 </p>
