@@ -25,12 +25,12 @@
     </strong>
 </p>
 
-<p style="margin-bottom: 20px;">
+<p style="margin-bottom: 40px;">
     List all running Instances:<br/>
     <strong>boxfuse ps</strong>
 </p>
 
-<P style="margin-bottom: 20px;">
+<P style="margin-bottom: 40px;">
     List all Bootable Apps:<br/>
     <strong>boxfuse ls</strong>
 </p>
